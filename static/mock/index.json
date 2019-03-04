@@ -3,105 +3,80 @@
   "data": {
     "swiperList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+        "imgUrl": "//ms0.meituan.net/touch/img/download_banner.png"
       },{
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+        "imgUrl": "//ms0.meituan.net/touch/img/download_banner.png"
       },{
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+        "imgUrl": "//ms0.meituan.net/touch/img/download_banner.png"
       },{
         "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+        "imgUrl": "//ms0.meituan.net/touch/img/download_banner.png"
       }],
     "iconList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-        "desc": "景点门票"
+        "imgUrl": "//p0.meituan.net/codeman/050ce6754d32482c75273e292407f2b312356.png",
+        "desc": "火锅"
       }, {
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
-        "desc": "滑雪季"
+        "imgUrl": "//p0.meituan.net/codeman/e5277d18a450c1fe51c6cda9cff6a9e016621.png",
+        "desc": "甜点饮品"
       }, {
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1710/a6/83f636bd75ae6302.png",
-        "desc": "泡温泉"
+        "imgUrl": "//p1.meituan.net/codeman/962b082a549e88f2939dbee2ac3d235613019.png",
+        "desc": "自助餐"
       }, {
         "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
-        "desc": "动植园"
+        "imgUrl": "//p0.meituan.net/codeman/12ff749bd7fdf473abd59e2651a9ee1913684.png",
+        "desc": "小吃快餐"
       }, {
         "id": "0005",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
-        "desc": "游乐园"
+        "imgUrl": "//p0.meituan.net/codeman/0fe84029cc6cf6ccf12838ce6546734a16488.png",
+        "desc": "西餐"
       }, {
         "id": "0006",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
-        "desc": "必游榜单"
+        "imgUrl": "//p0.meituan.net/codeman/2ae734d26259e6138ea61f2dcdac8fa115018.png",
+        "desc": "烧烤烤肉"
       }, {
         "id": "0007",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
-        "desc": "演出"
+        "imgUrl": "//p1.meituan.net/codeman/a7c360a9aeca1f972a1819465154c6b414043.png",
+        "desc": "烤鱼"
       }, {
         "id": "0008",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/7f/b1ea3c8c7fb6db02.png",
-        "desc": "城市观光"
+        "imgUrl": "//p1.meituan.net/codeman/13a0d1537d45b237a07b665eb5a7845e17141.png",
+        "desc": "海鲜"
       }, {
         "id": "0009",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
-        "desc": "一日游"
+        "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544547984126&di=d91a951bfe1833ccaab7d59fbe97c1d4&imgtype=0&src=http%3A%2F%2Fku.90sjimg.com%2Felement_origin_min_pic%2F18%2F07%2F06%2F64a7789c617996fcbfa0b15fe01f3879.jpg",
+        "desc": "麻辣香锅"
       }],
     "recommendList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
-        "title": "故宫",
-        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+        "imgUrl": "https://img.meituan.net/msmerchant/02449e7cfb890793003e6633c3059b4e127405.jpg@160w_160h_1e_1c",
+        "title": "味之绝美蛙鱼头火锅(太古里店)",
+        "desc": "川味火锅"
       }, {
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_140x140_abb362a7.jpg",
-        "title": "南山滑雪场",
-        "desc": "北京专业级滑雪圣地"
+        "imgUrl": "https://img.meituan.net/msmerchant/c4ce82f47ce6ed21012fb48b915b0d3b157061.jpg@160w_160h_1e_1c",
+        "title": "串天下-串串香(春熙路店)",
+        "desc": "串串香"
       }, {
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
-        "title": "天安门广场",
-        "desc": "我爱北京天安门，天安门上太阳升"
+        "imgUrl": "https://img.meituan.net/msmerchant/ff527ab19524976b85261f3450b3a0f337507.jpg@160w_160h_1e_1c",
+        "title": "拾味糕点烘培坊",
+        "desc": "糕点店"
       }, {
         "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_140x140_1c863e5c.jpg",
-        "title": "水立方",
-        "desc": "中国的荣耀，阳光下的晶莹水滴"
+        "imgUrl": "//p0.meituan.net/mogu/6b0884eb78b4966ed7b5dce0e1111f9792526.jpg@160w_160h_1e_1c",
+        "title": "馋尚瘾隆江猪脚饭",
+        "desc": "中餐快餐"
       }, {
         "id": "0005",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
-        "title": "温都水城养生馆",
-        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林"
-      }],
-    "weekendList": [{
-        "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/sight/source/1510/6e/1ea71e2f04e.jpg_r_640x214_aa6f091d.jpg",
-        "title": "北京温泉排行榜",
-        "desc": "细数北京温泉，温暖你的冬天"
-      }, {
-        "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
-        "title": "北京必游TOP10",
-        "desc": "来北京必去的景点非这些地方莫属"
-      }, {
-        "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
-        "title": "寻找北京的皇城范儿",
-        "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
-      }, {
-        "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ce/bc89bc2f0e33ea.jpg_r_640x214_3e408453.jpg",
-        "title": "学生最爱的博物馆",
-        "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
-      }, {
-        "id": "0005",
-        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b2/fde1bfcd057a52.jpg_r_640x214_bbf3fa44.jpg",
-        "title": "儿童剧场，孩子的乐园",
-        "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+        "imgUrl": "http://vfile.meituan.net/joymerchant/-8994986828534877668-2370673-1513060851774.jpg",
+        "title": "山中老茶馆",
+        "desc": "茶馆"
       }]
+   
   }
 }

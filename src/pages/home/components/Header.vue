@@ -1,17 +1,15 @@
 <template>
 <div class="header">
     <div class="header_left">
-      <div class="iconfont back_icon">&#xe624;</div>
+       成都  <span class="iconfont">&#59050;</span>
     </div>
     <div class="header_input">
       <span class="iconfont">&#xe632;</span>
-      输入城市/游玩/景点主题
+      输入商家/品类/商圈
     </div>
-    <div class="header_right">
-      城市
-      <span class="iconfont">&#xe6aa;</span>
-    </div>
-
+<div class="index__open">
+  <img src="../../../assets/yonghu.png">
+   </div>
 </div>
 </template>
 
@@ -23,22 +21,39 @@ export default{
 
 <style scoped>
   .header{
-    line-height: .86rem;
+    line-height: .101rem;
     display: flex;
-    background-color: #00bcd4;
+    background-color:#06c1ae
+  }
+  .header_left {
+    width: 15%;
+    line-height: 100%;
+    margin-left: .1rem;
+    margin-top: 1em;
+    color: #fff;
+    font-size: 1.1em
+  }
+  .header_input{
+    width: 65%;
+    border-radius: .1rem;
+    padding: .1rem;
+    height: .50rem;
+    line-height: .55rem;
+    margin-top: .12rem;
+    margin-bottom: .12rem;
+    background-color: #21897d;
+    color: #68dbce;
+  }
+  .index__open{
+    width:15%;
+    margin-left:.1rem;
     color: #fff;
   }
-  .header_left{width: .64rem;float: left;}
-  .header_input{
-    flex: 1;
-    padding-left: .2rem;
-    background: #fff;
-    border-radius: .1rem;
-    height: .64rem;
-    line-height: .64rem;
-    margin-top: .12rem;
-    margin-left: .2rem;
-    color: #ccc;
+    .index__open img{
+    width:75%;
+    margin-left:.1rem;
+    color: #fff;
+
   }
   .back_icon{
     text-align: center;

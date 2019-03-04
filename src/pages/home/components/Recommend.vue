@@ -1,6 +1,11 @@
 <template>
   <div>
-    <div class="title">热销推荐</div>
+    <div class="title">
+       全部类目  <span class="iconfont">&#59050;</span>
+       附近的商家  <span class="iconfont">&#59050;</span>
+       智能排序  <span class="iconfont">&#59050;</span>
+       筛选  <span class="iconfont">&#59050;</span>
+       </div>
     <ul>
       <li class="item" v-for="item of list" :key="item.id">
         <img :src="item.imgUrl"  alt="" class="item_img">
